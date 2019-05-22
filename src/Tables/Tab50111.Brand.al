@@ -1,6 +1,6 @@
 table 50111 Brand
 {
-    DataClassification = ToBeClassified;
+    DataClassification = CustomerContent;
     Caption = 'Brand';
     DrillDownPageId = "Brand List";
     LookupPageId = "Brand List";
